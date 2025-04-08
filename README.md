@@ -14,7 +14,7 @@ Bot WhatsApp menggunakan Baileys yang otomatis menolak video call pada jam terte
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/username/whatsapp-vc-blocker.git
+git clone https://github.com/sall12vvv/whatsapp-vc-blocker.git
 cd whatsapp-vc-blocker
 ```
 
